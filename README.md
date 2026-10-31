@@ -143,6 +143,7 @@ Thanks goes to these wonderful people:
     <tr>
       <td align="center" valign="top" width="14.29%"><a href="https://github.com/eamonxg"><img src="https://avatars.githubusercontent.com/u/114069097?v=4&s=160" width="80px;" alt="eamonxg"/><br /><sub><b>eamonxg</b></sub></a></td>
       <td align="center" valign="top" width="14.29%"><a href="https://github.com/cjayacopra"><img src="https://avatars.githubusercontent.com/u/83209495?v=4&s=160" width="80px;" alt="cjayacopra"/><br /><sub><b>cjayacopra</b></sub></a></td>
+      <td align="center" valign="top" width="14.29%"><a href="https://github.com/mineextremely"><img src="https://avatars.githubusercontent.com/u/100750989?v=4&s=160" width="80px;" alt="mineextremely"/><br /><sub><b>mineextremely</b></sub></a></td>
       <td align="center" valign="top" width="14.29%"><a href="https://github.com/chillykidd"><img src="https://avatars.githubusercontent.com/u/197483577?v=4&s=160" width="80px;" alt="chillykidd"/><br /><sub><b>chillykidd</b></sub></a></td>
     </tr>
   </tbody>
